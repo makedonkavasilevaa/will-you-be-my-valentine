@@ -1,0 +1,38 @@
+#main-div{
+    background: white ;
+    text-align: center;
+}
+
+#sayYes{
+    background: green;
+    text-transform: uppercase;
+    color: white;
+    align-text: center;
+    border: green;
+    padding: 5px 10px;
+    width: auto;
+    font-size: 20px;
+}
+
+#sayNo{
+    background: red;
+    color: white;
+    text-align: center;
+    border: red;
+    padding: 5px 10px;
+    width: auto;
+    font-size: 20px;
+}
+
+.gif {
+    height: 200px;
+    width: auto;
+}
+
+.container {
+    padding: 50px 10px;
+}
+
+button{
+    font-size: large;
+}
